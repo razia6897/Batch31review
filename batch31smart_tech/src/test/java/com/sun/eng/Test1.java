@@ -10,6 +10,8 @@ System.out.println("He is my son");
 Test1 obj =new Test1();
 obj.mahi();
 
+System.out.println("this is a test");
+
 	}
 
 }
